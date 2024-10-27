@@ -15,7 +15,7 @@ You wanna try to get your GD savefiles back, yes or not? It's the only way, as f
 
 Use Android or Linux instead. I have no idea where are the savefiles saved. Good luck.
 If you have the savefiles, ~~use [Wine](https://winehq.org/) to get a Windows environement (to get support fixing for Windows/Android-like savefiles),
-or [Darling](https://darlinghq.org/) to get a Darwin (MacOS) environement (to get support for fixing MacOS/iOS-like savefiles)~~ Version 2 now automatically selects the right format even if you're not on the right OS and fixes it in the format it originally was (so you won't be able to convert from a format to annother using this tool. Maybe i' a future 2.1 update I'll add this functionality...).
+or [Darling](https://darlinghq.org/) to get a Darwin (MacOS) environement (to get support for fixing MacOS/iOS-like savefiles)~~ Version 2 now automatically selects the right format even if you're not on the right OS and fixes it in the format it originally was. You won't be able to convert from a format to another using this tool. (Maybe I'll make a future 2.1 update where I will add this functionality...).
 
 ## I don't wanna cancel my iDevice guarentee
 
